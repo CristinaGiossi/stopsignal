@@ -1,2 +1,2 @@
-# cbgt2
-rewrite of a basal ganglia simulator
+# stop signal task 
+stop signal task simulation code
